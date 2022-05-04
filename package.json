@@ -1,0 +1,14 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "基于腾讯云的TypeScript语言的serverless框架",
+  "main": "plopfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wenweiluo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.31"
+  }
+}
